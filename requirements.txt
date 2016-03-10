@@ -1,0 +1,8 @@
+decorator==4.0.9
+path.py==8.1.2
+pickleshare==0.6
+plac==0.9.1
+simplegeneric==0.8.1
+traitlets==4.1.0
+xlrd==0.9.4
+xls2db==0.0.8
